@@ -2,7 +2,7 @@ let stockProductos = [
     {id: 0, nombre: "HFDE", tipo: "HFDE", cantidad: 1, desc: "Hora fuera de estandar", valor: 1},
     {id: 1, nombre: "Instalación", tipo: "ACTIVIDAD", cantidad: 1, desc: "Instalación", valor: 0.45},
     {id: 3, nombre: "Reparación", tipo: "ACTIVIDAD", cantidad: 1, desc: "Reparación, preventivo", valor: 1.25},
-    {id: 2, nombre: "Conexión a red", tipo: "ACTIVIDAD", cantidad: 1, desc: "Conexión a red", valor: 1},
+    {id: 2, nombre: "Conexión a red", tipo: "ACTIVIDAD", cantidad: 1, desc: "Conexión a red", valor: 1.25},
     {id: 4, nombre: "Montaje", tipo: "ACTIVIDAD", cantidad: 1, desc: "Montaje", valor: 0.45},
     {id: 6, nombre: "Asesoramiento", tipo: "ACTIVIDAD", cantidad: 1, desc: "Asesoramiento", valor: 0.7},
     {id: 5, nombre: "Reducción", tipo: "ACTIVIDAD", cantidad: 1, desc: "Reducción, desmontaje, desinstalación", valor: 0.7},
